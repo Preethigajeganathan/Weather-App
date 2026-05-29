@@ -103,7 +103,7 @@ Additional weather conditions can be added easily.
 The application works across:
 
 * Desktop Computers
-* Laptops
+* Laptops 
 * Tablets
 * Mobile Devices
 
