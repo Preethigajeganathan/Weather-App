@@ -22,7 +22,7 @@ A simple and responsive Weather Application built using **HTML, CSS, and JavaScr
 ```text
 weather-app/
 │
-├── weather.html
+├── index.html
 ├── weather.css
 ├── images/
 │   ├── search.png
@@ -58,7 +58,7 @@ The application displays:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/your-username/Weather-App.git
 ```
 
 ### 2. Navigate to the Project Folder
