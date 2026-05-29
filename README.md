@@ -2,6 +2,10 @@
 
 A simple and responsive Weather Application built using **HTML, CSS, and JavaScript** that fetches real-time weather data from the OpenWeatherMap API.
 
+## 🚀 Live Demo  
+
+🔗 https://preethigajeganathan.github.io/Weather-App/
+
 ## 🚀 Features
 
 * Search weather by city name
